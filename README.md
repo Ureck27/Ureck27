@@ -3,7 +3,6 @@
 
 🚀 Full-Stack Web Developer (MERN Stack)
 💻 React • Node.js • Express • MongoDB
-🔐 Learning Cybersecurity & DevOps
 🐧 Linux Mint user
 <!--
 **Ureck27/Ureck27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
